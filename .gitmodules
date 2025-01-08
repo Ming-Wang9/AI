@@ -1,0 +1,3 @@
+[submodule "hw7_ConvolutionalNeuralNetworks/HW7"]
+	path = hw7_ConvolutionalNeuralNetworks/HW7
+	url = git@github.com:Ming-Wang9/cs540AI.git
